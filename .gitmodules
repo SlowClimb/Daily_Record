@@ -1,0 +1,3 @@
+[submodule "tools/ShellTools"]
+	path = tools/ShellTools
+	url = https://github.com/SlowClimb/ShellTools.git
